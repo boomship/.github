@@ -21,3 +21,5 @@ From infrastructure to interfaces, every repo pushes the limits of what's possib
 ---
 
 > *Charting new territories in collaborative development.* 🐙
+
+For updates or early access: [first@boomship.dev](mailto:first@boomship.dev)
